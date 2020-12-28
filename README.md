@@ -1,5 +1,5 @@
 Primeira Parte:<br> 
-#######################################################<br>
+<hr>
 Ultilizei as Tags: <br> 
 
   Form - Para Criar o Formulário <br>
